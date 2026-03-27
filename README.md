@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Mario Ricardo Da Silva Junior
 
 🎓 Estudante da Aprendizagem Industrial Em Programador De Sistema De Informação - 👨‍💻Contratado Pelo Grupo Farenzena
+
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
