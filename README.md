@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Mario Ricardo Da Silva Junior
 
 🎓 Estudante da Aprendizagem Industrial de Programador De Sistema De Informação.(SENAI) 👨‍💻Contratado Pelo Grupo Farenzena
+
 🎓  Estudante do Nono ano da Escola Cmeisv-Centro Municipal de Educação Integrada de Salto Veloso.
 
 
