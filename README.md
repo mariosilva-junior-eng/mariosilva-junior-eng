@@ -38,8 +38,10 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto 1 – [Nome do Projeto]  
+📌 Projeto 1 – [GameZone] https://mariosilva-junior-eng.github.io/site1/#home  
+
 📌 Projeto 2 – [Nome do Projeto]  
+
 📌 Projeto 3 – [Nome do Projeto]  
 
 ---
